@@ -15,7 +15,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🏛️ Contact
 Feel Free to reach out for collaboration or opportunities.
 
-**❄️Email**:click [codewithabel1@gmail.com](mailto:codewithabel1@gmail.com)
-✳️**WhatsApp**:[chat with me](https://wa.me/255714131519?text=Hello%20I%20saw%20your%20GitHub)
+-❄️**Email**:click [codewithabel1@gmail.com](mailto:codewithabel1@gmail.com)
+-✳️**WhatsApp**:[chat with me](https://wa.me/255714131519?text=Hello%20I%20saw%20your%20GitHub)
 
 
