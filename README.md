@@ -12,7 +12,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
  I'm **ABELY J ABELY**, also known as **Ant_Darkness**. I’m Aspiring Data Analyst with hands-on experience in SQL data analysis projects
 
-**🧷Email**
-[codewithabel1@gmail.com](codewithabel1@gmail.com)
+**🏛️Email**:click [codewithabel1@gmail.com](mailto:codewithabel1@gmail.com)
+✳️**WhatsApp**:[chat with me](https://wa.me/255714131519)
 
 
